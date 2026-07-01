@@ -1,4 +1,4 @@
-<img src="./assets/jeisson-rocha-perfil.jpg" alt="Jeisson Rocha da Cunha" width="190" align="right">
+<!--<img src="./assets/jeisson-rocha-perfil.jpg" alt="Jeisson Rocha da Cunha" width="190" align="right">-->
 
 # Olá, eu sou Jeisson Rocha da Cunha
 
