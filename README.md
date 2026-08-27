@@ -4,7 +4,7 @@
 
 ### Analista de Sistemas | Desenvolvedor Full Stack | Especialista em Banco de Dados
 
-Profissional de Tecnologia da Informação com experiência desde **2007** em análise de sistemas e desenvolvimento de soluções web, desde websites até sistemas empresariais.
+Profissional de Tecnologia da Informação com experiência desde **2000** em análise de sistemas e desenvolvimento de soluções web, desde websites até sistemas empresariais.
 
 Sou cofundador e diretor da **Air Tecnologia**, onde construí uma trajetória que reúne desenvolvimento de software, análise de requisitos, banco de dados, gestão de projetos, relacionamento com clientes e desenvolvimento de soluções sob medida.
 
