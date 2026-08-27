@@ -1,6 +1,6 @@
 <!--<img src="./assets/jeisson-rocha-perfil.jpg" alt="Jeisson Rocha da Cunha" width="190" align="right">-->
 <p align="right">
-  🇧🇷 <strong>Português</strong> · <a href="README.en.md">🇺🇸 English</a>
+  <a href="README.en.md">🇺🇸 English Version</a>
 </p>
 
 # Olá, eu sou Jeisson Rocha da Cunha
