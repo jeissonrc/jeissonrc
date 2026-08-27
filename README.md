@@ -1,12 +1,11 @@
 <!--<img src="./assets/jeisson-rocha-perfil.jpg" alt="Jeisson Rocha da Cunha" width="190" align="right">-->
+<p align="right">
+  🇧🇷 <strong>Português</strong> · <a href="README.en.md">🇺🇸 English</a>
+</p>
 
 # Olá, eu sou Jeisson Rocha da Cunha
 
 ### Analista de Sistemas | Desenvolvedor Full Stack | Especialista em Banco de Dados
-
-<p align="center">
-  🇧🇷 <strong>Português</strong> · 🇺🇸 <a href="README.en.md">English</a>
-</p>
 
 Profissional de Tecnologia da Informação com mais de 18 anos de experiência em análise de sistemas e desenvolvimento de soluções web, desde websites até sistemas empresariais.
 
