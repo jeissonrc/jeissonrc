@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/jeisson-rocha-perfil.jpg" alt="Jeisson Rocha da Cunha" width="180" align="left">
-</p>
+<!--<p align="center"><img src="./assets/jeisson-rocha-perfil.jpg" alt="Jeisson Rocha da Cunha" width="180" align="left"></p>-->
 
 
 <p align="right">
