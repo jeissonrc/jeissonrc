@@ -4,6 +4,10 @@
 
 ### Analista de Sistemas | Desenvolvedor Full Stack | Especialista em Banco de Dados
 
+<p align="center">
+  🇧🇷 <strong>Português</strong> · 🇺🇸 <a href="README.en.md">English</a>
+</p>
+
 Profissional de Tecnologia da Informação com mais de 18 anos de experiência em análise de sistemas e desenvolvimento de soluções web, desde websites até sistemas empresariais.
 
 Sou cofundador e diretor da **Air Tecnologia**, onde construí uma trajetória que reúne desenvolvimento de software, análise de requisitos, banco de dados, gestão de projetos, relacionamento com clientes e desenvolvimento de soluções sob medida.
@@ -106,3 +110,9 @@ O projeto explora autenticação, consumo de API REST, filtragem de personagens,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeisson_Rocha_da_Cunha-0A66C2?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jeisson-rocha-da-cunha-80b097218)
 [![BRazucaFlow](https://img.shields.io/badge/Projeto-BRazucaFlow-013A63)](https://brazukaflow.com.br/)
 [![Flutter Rick and Morty](https://img.shields.io/badge/Projeto-Flutter%20Rick%20%26%20Morty-02569B?logo=flutter&logoColor=white)](https://github.com/jeissonrc/flutter-rick-and-morty-app)
+
+---
+
+### 🌐 Idioma
+
+🇧🇷 <strong>Português</strong> · 🇺🇸 <a href="README.en.md">English</a>
