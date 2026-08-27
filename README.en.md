@@ -110,3 +110,9 @@ The project explores authentication, REST API consumption, character filtering, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeisson_Rocha_da_Cunha-0A66C2?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jeisson-rocha-da-cunha-80b097218)
 [![BRazucaFlow](https://img.shields.io/badge/Project-BRazucaFlow-013A63)](https://brazukaflow.com.br/)
 [![Flutter Rick and Morty](https://img.shields.io/badge/Project-Flutter%20Rick%20%26%20Morty-02569B?logo=flutter&logoColor=white)](https://github.com/jeissonrc/flutter-rick-and-morty-app)
+
+---
+
+### 🌐 Language
+
+🇧🇷 [Português](README.md) · 🇺🇸 **English**
