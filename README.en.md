@@ -1,4 +1,4 @@
-<!--<img src="./assets/jeisson-rocha-perfil.jpg" alt="Jeisson Rocha da Cunha" width="190" align="right">-->
+<img src="./assets/jeisson-rocha-perfil.jpg" alt="Jeisson Rocha da Cunha" width="190" align="right">
 
 <p align="right">
   <a href="README.md">🇧🇷 Versão em Português</a>
