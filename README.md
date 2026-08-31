@@ -89,6 +89,25 @@ O projeto explora autenticação, consumo de API REST, filtragem de personagens,
 
 - [Repositório](https://github.com/jeissonrc/flutter-rick-and-morty-app)
 
+
+### Agro4Business
+
+Case acadêmico de **Discovery de Produto, UX e prototipação de alta fidelidade**, desenvolvido na disciplina de Laboratório de Criatividade e Projetos (LCP).
+
+O projeto envolveu pesquisa, definição de personas, identificação de necessidades, brainstorming, priorização, wireframes e prototipação de uma solução digital voltada ao produtor rural.
+
+- [Repositório](https://github.com/jeissonrc/agro4business-product-case)
+
+### Pitfall Clone
+
+Pequeno experimento desenvolvido com **HTML, CSS e JavaScript**, inspirado no clássico *Pitfall!*.
+
+O projeto explora HTML5 Canvas, game loop, colisões, movimentação, obstáculos, inimigos, pontuação, vidas e geração de diferentes cenários.
+
+- [Repositório](https://github.com/jeissonrc/pitfall-clone)
+- [Jogar online](https://jeissonrc.github.io/pitfall-clone/)
+
+
 ## Interesses profissionais
 
 - Análise de problemas e estruturação de soluções;
