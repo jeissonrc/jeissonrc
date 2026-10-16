@@ -4,7 +4,7 @@
 
 # Olá, eu sou Jeisson Rocha da Cunha
 
-### Analista de Sistemas | Desenvolvedor Full Stack | Especialista em Banco de Dados
+### Analista de Sistemas | Desenvolvedor Full Stack | Banco de Dados e SQL
 
 Profissional de Tecnologia da Informação com mais de 18 anos de experiência em análise de sistemas, desenvolvimento de software e evolução de soluções web e empresariais. Gosto de entender o problema, organizar os requisitos e transformar necessidades de negócio em soluções úteis.
 
